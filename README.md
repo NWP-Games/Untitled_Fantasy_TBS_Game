@@ -10,4 +10,4 @@ To play Demo 0.1.1:
 
 This Demo consists of 10 Levels, 5 Main Levels and 5 Side Levels. The Main Levels require the Hero Unit, while the Side Levels each require a different unit as listed in their level description. If you lose a level, or choose to retreat from a level, you can replay the level, in future versions of the game this won't be the case. Also if you lose a unit during a level you will still have access to them in future levels, in future versions of the game there will be unit permadeath.
 
-Demo 0.1.1 added in some bug fixes with the prior version, includes: Improved Enemy AI Movement to default to move towards Spawn instead of Bottom Left Corner of the map; Fixed the Double Spawning Bug on Defense and Survive Levels; and Fixing the Escape Action Showing up on Defense Levels.
+Demo 0.1.1 added in some bug fixes with the prior version, includes: Improved Enemy AI Movement to default to move towards Spawn instead of Bottom Left Corner of the map; Fixed the Double Spawning Bug on Defense and Survive Levels; Updated Enemy Leader of Level 1 to move when Ally Units get close; and Fixing the Escape Action Showing up on Defense Levels.
