@@ -1,6 +1,6 @@
 Demos for my currently Untitled Fantasy TBS Game
 
-To play Demo 0.1:
+To play Demo 0.1.2:
 1) Click the Green Code Button and download the zip file
 2) unzip the downloaded zip file
 3) unzip both Untitled_Fantasy_TBS_Game_1 and Untitled_Fantasy_TBS_Game_2 so that their contents are in the same folder
