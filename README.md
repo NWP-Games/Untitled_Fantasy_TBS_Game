@@ -1,6 +1,6 @@
 Demos for my currently Untitled Fantasy TBS Game
 
-To play Demo 0.2.1:
+To play Demo 0.2.2:
 1) Click the Green Code Button and download the zip file
 2) unzip the downloaded zip file
 3) unzip Untitled_Fantasy_TBS_Game_1, Untitled_Fantasy_TBS_Game_2, and Untitled_Fantasy_TBS_Game_3 so that their contents are all in the same folder
@@ -13,3 +13,5 @@ This Demo consists of 12 Levels, 5 Main Levels and 7 Side Levels. The Main Level
 Demo 0.2 added in some updates and new content, includes: Added a Save System; Added a self heal action to all units (Recover Action); Healing actions don't work on fully healed units; Status effect actions can't be used on units that are currently effected by said status effect; Added unlockable actions when a unit reaches level 3; Added in two new units, the Druid and the Witch; Added Camera Snap to acting unit if not in view; Added Camera borders to levels; Updated all Tips; Added a Tip Book to reference learned tips to Pause Screen; Updated Level 5 to have significantly less enemy units spawn per wave. 
 
 Demo 0.2.1 added in some minor bug fixes to the game, added in an additional 2 save slots to the game (for a total of 5 now), and a new level objective "Obtain".
+
+Demo 0.2.2 added in some more minor bug fixes and one major bug fix to the game. The Major bug fix was the issue caused by an enemy unit dying to one of Druid Unit's damaing actions while moving. 
